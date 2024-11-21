@@ -85,7 +85,7 @@ build-backend = "poetry.core.masonry.api"
 We can now run the app from terminal
 ```bash
 cd app
-poetry run python3 multiagent.py
+poetry run python app/multiagent.py  
 ```
 
 ##Usage
