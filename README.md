@@ -82,9 +82,6 @@ setuptools = "^75.5.0"
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
 ```
-```bash
-pip install python-dotenv typing
-```
 We can now run the app from terminal
 ```bash
 cd app
