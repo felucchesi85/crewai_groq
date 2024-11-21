@@ -27,8 +27,9 @@ git clone <repository-url>
 ```bash
 python -m venv venv
 ```
-.\venv\Scripts\activate  # Windows
-
+```bash
+.\venv\Scripts\activate
+```
 ---
 
 ## 3. Install Poetry
